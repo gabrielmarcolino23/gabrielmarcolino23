@@ -5,8 +5,8 @@ Hello! My name is Gabriel Marcolino and I'm a full-stack developer and data scie
 ## My Skills
 
 - Languages: Python (primary), JavaScript, HTML, CSS
-- Frameworks: Flask, Django, React.js
-- Tools: Pandas, NumPy, scikit-learn, TensorFlow, Bootstrap, Tailwind
+- Frameworks: Django, React.js
+- Tools: Pandas, NumPy, scikit-learn, TensorFlow, Seaborn, Matplotlib, Bootstrap, Tailwind
 
 ## Featured Projects
 
