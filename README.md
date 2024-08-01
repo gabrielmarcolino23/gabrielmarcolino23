@@ -13,37 +13,6 @@ Sou um Cientista de Dados especializado em aplicar modelos de Linguagem de Grand
 - **Big Data**
 - **Agentes de IA**
 
-## Projetos Principais
-
-### ML-Previsão-Churn
-Um projeto de machine learning focado em prever a evasão de clientes (churn) utilizando algoritmos como Random Forest, SVM e Decision Tree. Este projeto ajuda a identificar clientes propensos a deixar a empresa e permite que a equipe de vendas tome medidas proativas para a retenção.
-
-## Ferramentas e Tecnologias
-
-### Linguagens de Programação e Bibliotecas
-
-- **Python**: NumPy, pandas, scikit-learn, TensorFlow, PyTorch
-
-### Modelos de Linguagem de Grande Escala (LLMs)
-
-- **Hugging Face**
-- **GPT API**
-- **Gemini API**
-- **Ollama**
-
-### Ferramentas de Visualização de Dados
-
-- **Power BI**
-- **Google Looker**
-- **Matplotlib**
-- **Seaborn**
-
-### Outros
-
-- **Docker**
-- **Git**
-- **CI/CD Pipelines**
-
 ## Contatos
 
 - **LinkedIn**: [linkedin.com/in/gabrielmarcolino](https://www.linkedin.com/in/gabrielmarcolinoramos/)
