@@ -6,7 +6,7 @@ Sou um Cientista de Dados especializado em aplicar modelos de Linguagem de Grand
 
 ## Áreas de Interesse
 
-- **Dados e IA**
+- **Dados & AI**
 - **LLMs**
 - **Machine Learning**
 - **Deep Learning**
